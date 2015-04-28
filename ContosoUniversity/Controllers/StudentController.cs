@@ -47,15 +47,23 @@ namespace ContosoUniversity.Controllers
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind(Include="ID,LastName,FirstMidName,EnrollmentDate")] Student student)
+        //Removed ID from BIND attribute and added try-catch construction
+        public ActionResult Create([Bind(Include = "LastName, FirstMidName, EnrollmentDate")]Student student)
         {
-            if (ModelState.IsValid)
+            try
             {
-                db.Students.Add(student);
-                db.SaveChanges();
-                return RedirectToAction("Index");
+                if (ModelState.IsValid)
+                {
+                    db.Students.Add(student);
+                    db.SaveChanges();
+                    return RedirectToAction("Index");
+                }
             }
-
+            catch (DataException /* dex */)
+            {
+                //Log the error (uncomment dex variable name and add a line here to write a log.
+                ModelState.AddModelError("", "Unable to save changes. Try again, and if the problem persists see your system administrator.");
+            }
             return View(student);
         }
 
