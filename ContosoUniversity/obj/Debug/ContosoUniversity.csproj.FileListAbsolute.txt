@@ -21,6 +21,9 @@ E:\Programming\ContosoUniversity\Getting-Started-with-EntityFramework-6-Code-Fri
 E:\Programming\ContosoUniversity\Getting-Started-with-EntityFramework-6-Code-Frist-using-MVC5\ContosoUniversity\bin\System.Web.WebPages.Razor.xml
 E:\Programming\ContosoUniversity\Getting-Started-with-EntityFramework-6-Code-Frist-using-MVC5\ContosoUniversity\bin\Newtonsoft.Json.xml
 E:\Programming\ContosoUniversity\Getting-Started-with-EntityFramework-6-Code-Frist-using-MVC5\ContosoUniversity\bin\Antlr3.Runtime.pdb
-E:\Programming\ContosoUniversity\Getting-Started-with-EntityFramework-6-Code-Frist-using-MVC5\ContosoUniversity\obj\Debug\ContosoUniversity.csprojResolveAssemblyReference.cache
 E:\Programming\ContosoUniversity\Getting-Started-with-EntityFramework-6-Code-Frist-using-MVC5\ContosoUniversity\obj\Debug\ContosoUniversity.dll
 E:\Programming\ContosoUniversity\Getting-Started-with-EntityFramework-6-Code-Frist-using-MVC5\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
+E:\Programming\ContosoUniversity\Getting-Started-with-EntityFramework-6-Code-Frist-using-MVC5\ContosoUniversity\bin\EntityFramework.dll
+E:\Programming\ContosoUniversity\Getting-Started-with-EntityFramework-6-Code-Frist-using-MVC5\ContosoUniversity\bin\EntityFramework.SqlServer.dll
+E:\Programming\ContosoUniversity\Getting-Started-with-EntityFramework-6-Code-Frist-using-MVC5\ContosoUniversity\bin\EntityFramework.xml
+E:\Programming\ContosoUniversity\Getting-Started-with-EntityFramework-6-Code-Frist-using-MVC5\ContosoUniversity\bin\EntityFramework.SqlServer.xml

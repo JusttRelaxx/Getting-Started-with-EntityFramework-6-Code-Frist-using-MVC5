@@ -11,7 +11,7 @@ namespace ContosoUniversity.Models
         public DateTime EnrollmentDate { get; set; }
 
         //Navigation property, Collection of student's all enrollments
-        
-        public virtual ICollection<Enrollment> Enrollments;
+
+        public virtual ICollection<Enrollment> Enrollments { get; set; }
     }
 }
