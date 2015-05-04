@@ -34,3 +34,6 @@ E:\Programming\ContosoUniversity\Getting-Started-with-EntityFramework-6-Code-Fri
 E:\Programming\ContosoUniversity\Getting-Started-with-EntityFramework-6-Code-Frist-using-MVC5\ContosoUniversity\bin\PagedList.Mvc.xml
 E:\Programming\ContosoUniversity\Getting-Started-with-EntityFramework-6-Code-Frist-using-MVC5\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.InitialCreate.resources
 E:\Programming\ContosoUniversity\Getting-Started-with-EntityFramework-6-Code-Frist-using-MVC5\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.GenerateResource.Cache
+E:\Programming\ContosoUniversity\Getting-Started-with-EntityFramework-6-Code-Frist-using-MVC5\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.MaxLenghtOnNames.resources
+E:\Programming\ContosoUniversity\Getting-Started-with-EntityFramework-6-Code-Frist-using-MVC5\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ColumnFirstName.resources
+E:\Programming\ContosoUniversity\Getting-Started-with-EntityFramework-6-Code-Frist-using-MVC5\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ComplexDataModel.resources
